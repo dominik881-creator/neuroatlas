@@ -3,7 +3,7 @@
 **Interaktywny atlas mózgu 3D w przeglądarce: od całego mózgu do kanałów jonowych w błonie neuronu.**
 Po polsku i angielsku, bez instalacji, działa na komputerze i telefonie.
 
-### ▶ [Otwórz NeuroAtlas](https://TWOJ-LOGIN.github.io/neuroatlas/)
+### ▶ [Otwórz NeuroAtlas](https://dominik881-creator.github.io/neuroatlas/)
 
 ![NeuroAtlas – hipokamp w trybie przezroczystym](docs/02_hippocampus.jpg)
 
@@ -57,4 +57,4 @@ To materiał edukacyjny, nie porada medyczna.
 
 **NeuroAtlas** is an interactive 3D brain atlas that runs in the browser. You zoom through six levels of scale: whole brain → deep structures → cortical tissue → single neuron → chemical synapse → membrane ion channels. Each level has animations and live simulations (action potential, saltatory conduction, five neurotransmitters with drugs, a Hodgkin–Huxley membrane model). The interface is Polish by default; structure names can be switched to English. Code: MIT. 3D model: Z-Anatomy / BodyParts3D, CC BY-SA 4.0.
 
-**▶ [Open NeuroAtlas](https://TWOJ-LOGIN.github.io/neuroatlas/)**
+**▶ [Open NeuroAtlas](https://dominik881-creator.github.io/neuroatlas/)**
