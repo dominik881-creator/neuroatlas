@@ -1,0 +1,15 @@
+{
+  "appId": "pl.dominik.neuroatlas",
+  "appName": "NeuroAtlas",
+  "webDir": "www",
+  "backgroundColor": "#06080c",
+  "android": {
+    "backgroundColor": "#06080c"
+  },
+  "plugins": {
+    "SystemBars": {
+      "style": "DARK",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}
